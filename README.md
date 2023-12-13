@@ -29,11 +29,13 @@ Experienced front-end developer with a strong background in HTML, CSS, Bootstrap
 
 <b>My GitHub Stats</b>
 
+<a href="https://github.com/aminulwebdev" align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulwebdev&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/aminulwebdev"><img src="https://github-readme-stats.vercel.app/api?username=aminulwebdev&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aminulwebdev's GitHub stats" /></a>
 
 <a href="http://www.github.com/aminulwebdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminulwebdev&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/aminulwebdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulwebdev&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <b>Top Repositories</b>
 
