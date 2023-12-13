@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm  Aminul Islam anik
-#### Front-end Developer
+Front-end Developer
 ![Front-end Developer](https://media.licdn.com/dms/image/D4D16AQE1oFPM34CJaQ/profile-displaybackgroundimage-shrink_350_1400/0/1688907901093?e=1707955200&v=beta&t=VLIB58FUu1bpqkSUftyZVUNQMJ4AAITfF-y3XyDP1_E)
 
 Experienced front-end developer with a strong background in HTML, CSS, Bootstrap, and JavaScript. Graduated in Computer Engineering. Proven track record of delivering dynamic and user-friendly web solutions. Actively staying updated on industry trends. Eager to collaborate on innovative projects. Let's connect and transform digital experiences together!
