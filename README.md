@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm  Aminul Islam Anik 
-<center>
+ #### Front-end Developer
 
- Front-end Developer
 
-</center
 
 
 ![Front-end Developer](https://media.licdn.com/dms/image/D4D16AQE1oFPM34CJaQ/profile-displaybackgroundimage-shrink_350_1400/0/1688907901093?e=1707955200&v=beta&t=VLIB58FUu1bpqkSUftyZVUNQMJ4AAITfF-y3XyDP1_E)
